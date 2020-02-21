@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">IMCalc</string>
-    <string name="peso">Digite o seu peso:</string>
+    <string name="personWeight">Digite seu peso: (kg)</string>
+    <string name="personHeight">Digite sua altura: (m)</string>
+    <string name="calculateButton">CALCULAR IMC</string>
+    <string name="result">RESULTADO</string>
 </resources>
